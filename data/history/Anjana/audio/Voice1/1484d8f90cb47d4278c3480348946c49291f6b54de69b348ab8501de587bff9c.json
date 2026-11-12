@@ -1,0 +1,8 @@
+{
+  "text": "Hi there. I'm glad you reached out. How are you feeling in this moment?",
+  "voice_id": "silver-raven-1792__voice1",
+  "usage": {
+    "processedCharactersCount": 71,
+    "modelId": "inworld-tts-1.5-mini"
+  }
+}

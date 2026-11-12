@@ -1,0 +1,28 @@
+{
+  "id": "20260602_121717_402857",
+  "created_at": "2026-06-02T12:17:31.672817+00:00",
+  "title": "Hi",
+  "messages": [
+    {
+      "id": 1,
+      "role": "user",
+      "content": "Hi"
+    },
+    {
+      "id": 2,
+      "role": "assistant",
+      "content": "Hello. I'm glad you reached out. How are you feeling in this moment?"
+    },
+    {
+      "id": 3,
+      "role": "user",
+      "content": "I am feeling sad"
+    },
+    {
+      "id": 4,
+      "role": "assistant",
+      "content": "I'm sorry to hear that. Sadness can feel very heavy to carry. Would you like to share more about what's been on your mind?"
+    }
+  ],
+  "updated_at": "2026-06-07T16:05:42.152348+00:00"
+}

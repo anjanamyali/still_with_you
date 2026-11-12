@@ -1,0 +1,28 @@
+{
+  "id": "20260729_165202_055881",
+  "created_at": "2026-07-29T16:52:08.281620+00:00",
+  "title": "hi",
+  "messages": [
+    {
+      "id": 1,
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "id": 2,
+      "role": "assistant",
+      "content": "Hi there. I'm glad you reached out. How are you feeling in this moment?"
+    },
+    {
+      "id": 3,
+      "role": "user",
+      "content": "hey"
+    },
+    {
+      "id": 4,
+      "role": "assistant",
+      "content": "Hi. It's good to connect with you. How has your day been going so far?"
+    }
+  ],
+  "updated_at": "2026-07-30T08:13:39.054532+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "20260730_081700_322538",
+  "created_at": "2026-07-30T08:17:32.550962+00:00",
+  "title": "hi i am having a bad day ",
+  "messages": [
+    {
+      "id": 1,
+      "role": "user",
+      "content": "hi i am having a bad day "
+    },
+    {
+      "id": 2,
+      "role": "assistant",
+      "content": "I'm sorry to hear that. It sounds like things have been really difficult for you today. Would you like to talk about what's been on your mind?"
+    },
+    {
+      "id": 3,
+      "role": "user",
+      "content": "ok completed all the exarms i am feeling good bout it idont know how the result will be tho"
+    },
+    {
+      "id": 4,
+      "role": "assistant",
+      "content": "It's a big relief to have those exams behind you, and it's wonderful that you feel good about your performance. It’s also quite natural to feel that lingering uncertainty about the results. How are you feeling about the waiting period?"
+    }
+  ],
+  "updated_at": "2026-07-30T08:21:40.564393+00:00"
+}
